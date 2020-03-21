@@ -29,9 +29,13 @@ try {
 }
 
 module.exports = {
-    plugins: [{ resolve: `gatsby-theme-try-ghost`,
-        options: {
-            ghostConfig: ghostConfig,
-            siteConfig: siteConfig,
-        } }],
+    plugins: [
+        { 
+            resolve: `gatsby-theme-try-ghost`,
+            options: {
+                ghostConfig: ghostConfig,
+                siteConfig: siteConfig,
+            } 
+        }
+    ],
 }
