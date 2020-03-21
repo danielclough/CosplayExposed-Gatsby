@@ -3,8 +3,6 @@ const path = require(`path`)
 const siteConfigDefaults = require(`./src/utils/siteConfigDefaults`)
 const ghostConfigDefaults = require(`./src/utils/.ghost.json`)
 
-const generateRSSFeed = require(`./src/utils/rss/generate-feed`)
-
 /**
 * This is the place where you can tell Gatsby which plugins to use
 * and set them up the way you want.
