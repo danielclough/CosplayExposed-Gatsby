@@ -1,10 +1,10 @@
 {
     "development": {
-        "apiUrl": "https://cosplay.exposed",
+        "apiUrl": "https://admin.cosplay.exposed",
         "contentApiKey": "e6c796b2e7eeab8b025a1f4e59"
     },
     "production": {
-        "apiUrl": "https://cosplay.exposed",
+        "apiUrl": "https://admin.cosplay.exposed",
         "contentApiKey": "e6c796b2e7eeab8b025a1f4e59"
     }
 }
